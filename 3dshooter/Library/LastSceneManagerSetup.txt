@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/MentalDreamsAssets/MountainPack/Scene/demo.unity
-  isLoaded: 1
-  isActive: 1
