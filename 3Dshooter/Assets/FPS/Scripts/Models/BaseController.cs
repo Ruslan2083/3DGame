@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 namespace FPS
 {
     public class BaseController : MonoBehaviour
